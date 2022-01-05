@@ -1,9 +1,9 @@
 ##  Hey there, I'm Lucas Sanches Cavalheiro <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"/>
 
-### I'm a Software Developer <img src="https://c.tenor.com/ojNACfrYG5AAAAAM/nerd-spongebob.gif" width="50px" height="50px"/>
+### I'm a Software Developer <img src="https://c.tenor.com/ojNACfrYG5AAAAAM/nerd-spongebob.gif" width="40px" height="40px"/>
 
 - 👨‍💻 I’m currently working with Angular 🤖
-- 📚 I'm always learning something new 🍀<img src="https://miro.medium.com/max/1000/1*OQXIhH0Z6Uu3M927atn7lw.gif" width="50px" height="50px"/>
+- 📚 I'm always learning something new 🍀<img src="https://miro.medium.com/max/1000/1*OQXIhH0Z6Uu3M927atn7lw.gif" width="40px" height="40px"/>
 
  <div>
   <a href="https://www.linkedin.com/in/lucas-sanches-cavalheiro-4b178613a/">
